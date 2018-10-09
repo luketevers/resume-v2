@@ -74,3 +74,23 @@ h6 {
 dt {
   margin-bottom: .5rem;
 }
+
+.section {
+  padding-top: 1rem;
+}
+
+.section .section--technical {
+  padding-top: 3rem;
+}
+
+.section.section--work {
+  padding-top: 0;
+}
+
+.job-description {
+  margin-top: 1rem;
+}
+
+.section td {
+  padding-top: 2rem;
+}
